@@ -1,5 +1,5 @@
 {
-  "name": "naudiodon",
+  "name": "@orosound/naudiodon",
   "version": "2.4.3",
   "description": "Node Stream bindings for PortAudio.",
   "main": "./index.js",
